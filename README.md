@@ -1,8 +1,8 @@
 # lizkebab
 
-Lizard Squad 0wned rekt by Chippy1337 and the packet prophet
+Lizard Squad rekt by Chippy1337 and the packet prophet
 
-Twitter: @packetprophet
+Twitter: [@packetprophet](https://twitter.com/packetprophet)
 
 # Are you not entertained?
 
