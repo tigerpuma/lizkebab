@@ -6,4 +6,4 @@ Twitter: [@packetprophet](https://twitter.com/packetprophet)
 
 # Are you not entertained?
 
-Send BTC to [129UQoB3JvZg3iDERYZiXeHPkwT1iJF8u4](https://blockchain.info/address/129UQoB3JvZg3iDERYZiXeHPkwT1iJF8u4)
+Send BTC to [121cywjXYCUSL2qN7MnQAzSHNsWotUrea7](https://blockchain.info/address/129UQoB3JvZg3iDERYZiXeHPkwT1iJF8u4)
