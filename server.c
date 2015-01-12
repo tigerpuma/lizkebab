@@ -1,5 +1,5 @@
 /*
-  Chippy1337 and @packetprofit present:
+  Chippy1337 and @packetprophet present:
   LizardStresser rekt
   This is the custom control server
 
