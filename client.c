@@ -1,7 +1,7 @@
 /*
   Chippy1337 and @packetprophet present:
   LizardStresser rekt
-  This is the custom control server
+  This is the cross compiled bot
 
   LICENSE AGREEMENT:
     If you lulz'd, you must sent BTC to
